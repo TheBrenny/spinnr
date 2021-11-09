@@ -1,0 +1,25 @@
+{
+  "name": "spinnr",
+  "version": "0.0.1",
+  "description": "Your all in one tool to help you manage your DJ library and generate playlists!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests :(\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/thebrenny/spinnr"
+  },
+  "keywords": [
+    "dj",
+    "library",
+    "collection",
+    "music",
+    "playlists",
+    "dj",
+    "disc",
+    "jockey"
+  ],
+  "author": "TheBrenny <iam@justbrenny.me>",
+  "license": "Unlicense"
+}
