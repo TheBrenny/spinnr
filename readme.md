@@ -57,13 +57,13 @@ Put any useful API info here, in case I `require` it instead.
 
 ## Contributing
 
-How can the average everyday Joe help make this project better? Maybe there's a [TODO](./TODO.md) list with things that need attention?
+How can the average everyday Joe help make this project better? Maybe there's a [TODO](./docs/todo.md) list with things that need attention?
 
 ## Roadmap
 
 See the [issues page](/issues) for all known issues.
 
-You can also take a peak at the [MoSCoW targets](./docs/TODO.md)
+You can also take a peak at the [MoSCoW targets](./docs/todo.md)
 
 ## The Bottom Stuff
 
