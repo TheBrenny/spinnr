@@ -21,5 +21,8 @@
     "jockey"
   ],
   "author": "TheBrenny <iam@justbrenny.me>",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "dependencies": {
+    "rekordxml": "^0.1.0"
+  }
 }

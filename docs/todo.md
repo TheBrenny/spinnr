@@ -19,7 +19,7 @@ Spinnr's main purpose is to interface with the exportable *Rekordbox XML Databas
 - [ ] Sync with spotify playlists
   - [ ] Local up to Spotify
   - [ ] Spotify down to local
-- [ ] **Read and understand Rekordbox XML file to generate a Spinnr Library**
+- [x] Read and understand Rekordbox XML file to generate a Spinnr Library
   - [ ] Spinnr must also be able to save back to an XML
 - [ ] Gather song metadata from cloud APIs (spotify, Tunebat, SongBPM, etc)
 - [ ] Allow user-created playlists
